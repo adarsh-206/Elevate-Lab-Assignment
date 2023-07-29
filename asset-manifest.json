@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Elevate-Lab-Assignment/static/css/main.3dacd2ce.css",
+    "main.js": "/Elevate-Lab-Assignment/static/js/main.a1f30d5e.js",
+    "static/js/787.2b695566.chunk.js": "/Elevate-Lab-Assignment/static/js/787.2b695566.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Elevate-Lab-Assignment/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Elevate-Lab-Assignment/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Elevate-Lab-Assignment/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Elevate-Lab-Assignment/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Elevate-Lab-Assignment/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Elevate-Lab-Assignment/index.html",
+    "main.3dacd2ce.css.map": "/Elevate-Lab-Assignment/static/css/main.3dacd2ce.css.map",
+    "main.a1f30d5e.js.map": "/Elevate-Lab-Assignment/static/js/main.a1f30d5e.js.map",
+    "787.2b695566.chunk.js.map": "/Elevate-Lab-Assignment/static/js/787.2b695566.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dacd2ce.css",
+    "static/js/main.a1f30d5e.js"
+  ]
+}
